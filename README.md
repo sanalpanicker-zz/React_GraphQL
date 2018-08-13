@@ -9,6 +9,6 @@ Access : "http://localhost:3000"
 
 Access : "http://localhost:4000/graphql" -- opens up graphiql
 
-Graphql schema defined in schema.js
+Graphql schema defined in schema.js and refer data in db.json
 
 - Enjoy trying out CURD operations on users and associated companies
